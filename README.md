@@ -30,5 +30,3 @@ This is known as **extractive summarization**, where sentences are selected from
 - Basic NLP techniques (tokenization, stop words, frequency scoring)
 
 ---
-
-## 📂 Project Structure
